@@ -21,14 +21,14 @@
         <java.version>11</java.version>
     </properties>
 
-<!--    <dependencies>-->
-<!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-release-plugin &ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>org.apache.maven.plugins</groupId>-->
-<!--            <artifactId>maven-release-plugin</artifactId>-->
-<!--            <version>2.5.3</version>-->
-<!--        </dependency>-->
-<!--    </dependencies>-->
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-release-plugin -->
+        <dependency>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-release-plugin</artifactId>
+            <version>2.5.3</version>
+        </dependency>
+    </dependencies>
 
     <build>
         <plugins>
