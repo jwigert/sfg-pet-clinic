@@ -1,5 +1,14 @@
 C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Person.java
-C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Vet.java
+C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\PetServiceMap.java
+C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\BaseEntity.java
+C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\VetService.java
 C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Pet.java
+C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\OwnerServiceMap.java
+C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\PetService.java
+C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\OwnerService.java
+C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\VetServiceMap.java
+C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Vet.java
+C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\CrudService.java
+C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\AbstractMapService.java
 C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\PetType.java
 C:\Repos\spring-framework-5-beginner-to-guru\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Owner.java
